@@ -1,5 +1,6 @@
 # wallet-less-login-web3athon
 An attempt to try out the idea of login using steganography instead of web3 wallets.
+Assumes a polkadot node template running in dev mode at default port.
 
 ## The Concept
 Web3 wallets are great, they provide a clean interface for users to interact with blockchains.
